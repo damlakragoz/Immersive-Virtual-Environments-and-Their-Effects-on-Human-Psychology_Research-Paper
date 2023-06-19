@@ -1,0 +1,2 @@
+# Immersive-Virtual-Environments-and-Their-Effects-on-Human-Psychology
+This research paper explores immersive technologies and their applications in psychology with the exigency of providing an extensive understanding of immersive technologies, extended realities and their connection with human psychology. The main focus is on Virtual Reality (VR) as it is currently the most advanced immersive technology. 
